@@ -26,6 +26,11 @@ This keyboard is based on:
   - Ignore error "The Finder can’t complete the operation because some data in ... can’t be read or written."
   - Unplug cable
 
+## Customize nice!view display
+
+- https://github.com/GPeye/nice-view-mod
+- https://github.com/GPeye/urchin-peripheral-animation
+
 ## Resources
 
 - https://www.typingclub.com/
